@@ -4,6 +4,6 @@ Application : https://whispering-waters-58907.herokuapp.com/
 <br />
 Test account:
 <br />
-  + email: test@123.com
+* email: test@123.com
 <br />
-  + password : testtest_123
+password : testtest_123
